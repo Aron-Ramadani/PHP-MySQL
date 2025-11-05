@@ -15,12 +15,13 @@
         </style>
 </head>
 <body>
+    
     <?php 
         include_once('config.php');
-        $sql ="SELECT * FROM users";
+        $sql ="SELECT * FROM userss";
         $getUsers= $conn->prepare($sql);
         $getUsers ->execute();
-        $user=$getUsers->fetchAll();
+        $users=$getUsers->fetchAll();
     ?>
     <br> <br>
 <table>
