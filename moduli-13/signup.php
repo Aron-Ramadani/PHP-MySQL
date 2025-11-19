@@ -60,7 +60,7 @@
                   </div>
 
                   <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
-                    <button  type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg">Register</button>
+                    <button  type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg">REGISTER</button>
                   </div>
 
                 </form>
@@ -68,7 +68,7 @@
               </div>
               <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
 
-                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
+                <img src="https://www.google.com/imgres?q=register&imgurl=https%3A%2F%2Fwww.1stformationsblog.co.uk%2Fwp-content%2Fuploads%2F2022%2F09%2FShutterstock_1079243414.jpg&imgrefurl=https%3A%2F%2Fwww.1stformations.co.uk%2Fblog%2Fregistering-a-charge-at-companies-house%2F&docid=l1Sdp-Ry4xYMlM&tbnid=tS_mRUJoVllGWM&vet=12ahUKEwi0vZSB8v6QAxXc9DgGHST7CfEQM3oECBcQAA..i&w=1500&h=750&hcb=2&ved=2ahUKEwi0vZSB8v6QAxXc9DgGHST7CfEQM3oECBcQAA"
                   class="img-fluid" alt="Sample image">
 
               </div>

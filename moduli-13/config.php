@@ -1,10 +1,8 @@
 <?php
 session_start();
 
-$name="root";
-$email="";
-$password="";
-$repeatyourpassord="";
+$user="root";
+$pass="";
 $server="localhost";
 $dbname="db";
 
