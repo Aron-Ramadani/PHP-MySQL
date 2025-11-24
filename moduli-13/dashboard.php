@@ -32,7 +32,7 @@
         </thead>
     <tbody>
         <?php
-            foreach($user as $user){
+            foreach($users as $user){
 ?> 
     <tr>
          <td> <?= $user['id'] ?> </td>
